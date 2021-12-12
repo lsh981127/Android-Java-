@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">practice</string>
+    <string name="number">전화번호</string>
+    <string name="email">이메일</string>
+    <string name="map">사무실 위치</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
